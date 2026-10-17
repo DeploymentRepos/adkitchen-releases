@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Agentic Developer Kitchen</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Fri, 16 Oct 2026 19:58:05 -0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# 0.1.0
+
+Rehearsal notes for the release pipeline's dry run; 0.1.0 is never published.
+The first real release replaces this file with its own notes.
+
+- **Automatic updates.** Agentic Developer Kitchen checks for new versions and
+  installs them, with a Check for Updates item in the menu.
+]]></description>
+            <enclosure url="https://github.com/agenticdevelopmentstudio/agenticdeveloperkitchen-releases/releases/download/v0.1.0/Agentic-Developer-Kitchen-0.1.0.zip" length="55680777" type="application/octet-stream" sparkle:edSignature="LW/zhkWgRkci66iKTZuR41xOsFj5thcfDCbe5jTmaUrkq4TBfKQBvGzAxHdueZBV3q4e6Dfb2zM4IZ0acjGMDQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: hpzM5tCE9EPV6Wt+aTzzPQHAVxyGjc0lZdXLM7TxhIPAdrvtZTTzQoL6jU+I29m6ekjDugLjT/ETr0NbfkvFCQ==
+length: 1483
+-->

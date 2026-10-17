@@ -1,1 +1,23 @@
-{"schema":1,"latest":null,"releases":[]}
+{
+  "schema": 1,
+  "latest": "0.1.0",
+  "releases": [
+    {
+      "version": "0.1.0",
+      "build": 1,
+      "date": "2026-10-17T03:00:46Z",
+      "minimumSystemVersion": "26.0",
+      "notes": "notes/0.1.0.md",
+      "pkg": {
+        "url": "https://github.com/agenticdevelopmentstudio/agenticdeveloperkitchen-releases/releases/download/v0.1.0/Agentic-Developer-Kitchen-0.1.0.pkg",
+        "size": 55500498,
+        "sha256": "76beaa359970dd76afda912eb65e66c0c5bbb5de0650eb342174fb172997ae42"
+      },
+      "zip": {
+        "url": "https://github.com/agenticdevelopmentstudio/agenticdeveloperkitchen-releases/releases/download/v0.1.0/Agentic-Developer-Kitchen-0.1.0.zip",
+        "size": 55680777,
+        "sha256": "da881604b12d7215b19998c7ad3bb91d5ca656b8a812575f3769df41c2d0d826"
+      }
+    }
+  ]
+}
