@@ -1,8 +1,24 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Agentic Developer Kitchen</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Sun, 18 Oct 2026 14:36:54 -0700</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# 0.3.0
+
+- **No more password prompt at first launch** — after a pkg install, the app no longer asks for an administrator password to take ownership of itself, a step that failed on macOS 26 with a wall of "Operation not permitted" errors. If an update needs a password, the built-in updater asks for it.
+- **Settings help per window** — each Settings window keeps its own help drawer open or closed, independent of the others.
+- **Readable settings tables** — hover over a cut-off table cell to see its full text, and over a column header for what that column means.
+]]></description>
+            <enclosure url="https://github.com/DeploymentRepos/adkitchen-releases/releases/download/v0.3.0/Agentic-Developer-Kitchen-0.3.0.zip" length="56825103" type="application/octet-stream" sparkle:edSignature="1zbRUgqG+5fln9R96x2+ICdG1gteHuurMb1VXDxZocnIR74P5gDzW80MWH/DAaA/1u9PDgefEhrUqXGAWONFCw=="/>
+        </item>
         <item>
             <title>0.2.0</title>
             <pubDate>Sat, 17 Oct 2026 18:23:01 -0700</pubDate>
@@ -26,10 +42,11 @@ The first public release of Agentic Developer Kitchen: notes, AI chat, terminals
 - **Searchable settings** — a System Settings-style window with help alongside each panel, and a first-launch walkthrough for the permissions the app needs.
 - **Automatic updates** — new versions are signed, notarized and installed through the built-in updater.
 ]]></description>
-            <enclosure url="https://github.com/agenticdevelopmentstudio/agenticdeveloperkitchen-releases/releases/download/v0.2.0/Agentic-Developer-Kitchen-0.2.0.zip" length="57083814" type="application/octet-stream" sparkle:edSignature="CLDAIZAavL9aixlw4QJHF24BetifudzQj5Mv0MuPImnUC8HWW7XQskbXgGRMHsQI1XWn2M8etA8CAcrcu3wTBA=="></enclosure>
+            <enclosure url="https://github.com/agenticdevelopmentstudio/agenticdeveloperkitchen-releases/releases/download/v0.2.0/Agentic-Developer-Kitchen-0.2.0.zip" length="57083814" type="application/octet-stream" sparkle:edSignature="CLDAIZAavL9aixlw4QJHF24BetifudzQj5Mv0MuPImnUC8HWW7XQskbXgGRMHsQI1XWn2M8etA8CAcrcu3wTBA=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: sTBpa196p4NMR9gFegY14W1mNkFNXfjtr3AJZkXvxuQe02GEmlDBjAe2TcqiZ7s2pOd3NFO7n/opQaoTnD/fCQ==
-length: 2911
+</rss>
+<!-- sparkle-signatures:
+edSignature: IZLrL0nTqP7c324pOF1OaCMH8ihad7ddrPfhXFsTEjfWnUD8fO+QHcUDXhIj9gQxUakQWVpQmlma1R4M9mupCw==
+length: 4192
 -->

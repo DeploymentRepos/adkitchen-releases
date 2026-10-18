@@ -1,7 +1,24 @@
 {
   "schema": 1,
-  "latest": "0.2.0",
+  "latest": "0.3.0",
   "releases": [
+    {
+      "version": "0.3.0",
+      "build": 14,
+      "date": "2026-10-18T21:40:27Z",
+      "minimumSystemVersion": "26.0",
+      "notes": "notes/0.3.0.md",
+      "pkg": {
+        "url": "https://github.com/DeploymentRepos/adkitchen-releases/releases/download/v0.3.0/Agentic-Developer-Kitchen-0.3.0.pkg",
+        "size": 56643565,
+        "sha256": "26f0f73caf00e927718ba662f9cb3a824300a7aef1ca0f1d2a361053899faeac"
+      },
+      "zip": {
+        "url": "https://github.com/DeploymentRepos/adkitchen-releases/releases/download/v0.3.0/Agentic-Developer-Kitchen-0.3.0.zip",
+        "size": 56825103,
+        "sha256": "9ff5a57d7816f2a64b95196a34fea610cf73ca442c757761dcd9df338ed6b5b7"
+      }
+    },
     {
       "version": "0.2.0",
       "build": 8,

@@ -1,8 +1,8 @@
 cask "agentic-developer-kitchen" do
-  version "0.2.0"
-  sha256 "c180731d171e18465c5b3b9a1107790526e29eb24e40d085dce9a8751958df18"
+  version "0.3.0"
+  sha256 "26f0f73caf00e927718ba662f9cb3a824300a7aef1ca0f1d2a361053899faeac"
 
-  url "https://github.com/agenticdevelopmentstudio/agenticdeveloperkitchen-releases/releases/download/v#{version}/Agentic-Developer-Kitchen-#{version}.pkg"
+  url "https://github.com/DeploymentRepos/adkitchen-releases/releases/download/v#{version}/Agentic-Developer-Kitchen-#{version}.pkg"
   name "Agentic Developer Kitchen"
   desc "Agentic development environment for macOS"
   homepage "https://agenticdeveloperkitchen.com/"
