@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Agentic Developer Kitchen</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Sat, 17 Oct 2026 18:23:01 -0700</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# 0.2.0
+
+The first public release of Agentic Developer Kitchen: notes, AI chat, terminals, a browser and your project's files, in a menu bar app with no Dock icon.
+
+- **Project windows** — split a window into File Browser, Document, Notes, Terminal and Browser panes. Tabs, the split layout and each pane's state come back exactly as you left them.
+- **Notes** — an Apple Notes-style browser over a local markdown note store, plus **Quick Note**, a small floating window for capturing a thought from the menu bar.
+- **AI chat** — a chat panel for talking with an AI assistant, ready to use without extra setup.
+- **Terminals** — terminal panes inside your project windows, private terminals, and Terminal Chat for talking with an AI in a terminal pane.
+- **ADTerminal** — a terminal-only companion app with multipane windows and tab cards.
+- **Files and documents** — browse a project's files and open them in a tabbed Document pane with side-by-side editors.
+- **Built-in browser** — a web browser pane that remembers the page it was on. Local AI tools such as Claude Code can drive it through a local MCP server, which you switch on in Settings › Automation.
+- **Git at a glance** — the current branch and status show in your project windows.
+- **VS Code extensions** — install extensions from Open VSX and use their webviews and tree views.
+- **Themes** — pick a theme in Settings or design your own in the full theme editor.
+- **Searchable settings** — a System Settings-style window with help alongside each panel, and a first-launch walkthrough for the permissions the app needs.
+- **Automatic updates** — new versions are signed, notarized and installed through the built-in updater.
+]]></description>
+            <enclosure url="https://github.com/agenticdevelopmentstudio/agenticdeveloperkitchen-releases/releases/download/v0.2.0/Agentic-Developer-Kitchen-0.2.0.zip" length="57083814" type="application/octet-stream" sparkle:edSignature="CLDAIZAavL9aixlw4QJHF24BetifudzQj5Mv0MuPImnUC8HWW7XQskbXgGRMHsQI1XWn2M8etA8CAcrcu3wTBA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: sTBpa196p4NMR9gFegY14W1mNkFNXfjtr3AJZkXvxuQe02GEmlDBjAe2TcqiZ7s2pOd3NFO7n/opQaoTnD/fCQ==
+length: 2911
+-->
